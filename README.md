@@ -27,6 +27,27 @@ openscad -q -o "part_3_2.stl" -p parameters.json -P part_3_2  "part_3_2.scad"
 openscad -q -o "all_parts.stl" -p parameters.json -P all_parts  "all_parts.scad"
 ```
 
+# Captures
+
+## Complete Object with Blender
+![complete-object-blender](complete-object-blender.png)
+
+## Complete Object with OpenSCAD
+
+![complete-object-openscad](complete-object-openscad.png)
+
+## Object Part 1, with second part hidden
+
+![part1-second_part_hide](part1-second_part_hide.png)
+
+## Object Part 2, with second part hidden
+
+![part2-second_part_hide](part2-second_part_hide.png)
+
+## Object Part 3, with second part hidden
+
+![part3-second_part_hide](part3-second_part_hide.png)
+
 # Details
 
 ## part_1.stl
